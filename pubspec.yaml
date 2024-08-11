@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   rxdart: ^0.27.7
-  uuid: ">=3.0.7 <5.0.0"
+  uuid: ">=3.0.5 <5.0.0"
   http: ">=0.13.0 <2.0.0" # to download / cache network files
   path_provider: ^2.0.8 # removed this because it cancel flutter/android/ios on pub.dev path_provider: ^1.6.10
 
